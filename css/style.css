@@ -200,6 +200,13 @@
 h5, .h5 {
     font-size: 1rem;
 }
+.h1{
+    display: flex;
+}
+.logotype{
+    width: 40px;
+    margin-top: -10px;;
+}
 @media (min-width: 1200px){
     .display-2 {
         font-size: 4rem!important;
@@ -263,7 +270,7 @@ h5, .h5 {
 
 /*** Appointment ***/
 .appointment {
-    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/carousel-2.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/actual/08.jpg) center center no-repeat;
     background-size: cover;
 }
 
