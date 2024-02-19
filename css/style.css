@@ -228,14 +228,16 @@ h5, .h5 {
 }
 
 .facts-overlay h1 {
-    font-size: 120px;
+    /* font-size: 120px; */
     color: transparent;
     -webkit-text-stroke: 1px var(--primary);
-    margin-bottom: 40px;
+    /* margin-bottom: 40px; */
 
     font-family: "Roboto", sans-serif;
 }
-
+.facts-overlay{
+    padding-top: 10px;
+}
 .facts-overlay a:hover {
     color: var(--primary) !important;
 }
