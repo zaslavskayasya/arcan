@@ -241,7 +241,9 @@ h5, .h5 {
 .facts-overlay a:hover {
     color: var(--primary) !important;
 }
-
+.error {
+    border: 1px solid red;
+  }
 
 /*** Service ***/
 .service-text::before {
