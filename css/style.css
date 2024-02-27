@@ -381,3 +381,11 @@ h5, .h5 {
 .footer .copyright a:hover {
     color: var(--primary);
 }
+
+.no-padding{
+    padding-bottom: 0px!Important;
+}
+
+.nav-item.fw-normal.nav-link.no-padding{
+    padding-bottom: 0px;
+}
